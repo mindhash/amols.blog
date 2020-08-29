@@ -40,6 +40,8 @@ class CarbonAd extends React.PureComponent<Props> {
   }
 
   render() {
+    return null;
+    
     const { smallOnly, largeOnly } = this.props;
     return (
       <div
