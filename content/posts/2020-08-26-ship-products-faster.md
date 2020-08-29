@@ -4,7 +4,7 @@ date: "2020-08-26T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/product-led-growth/ship-products-faster"
-img: "https://amols.blog/media/xkcd-290.png"
+img: "https://amols.blog/media/highway.jpg"
 isML: false
 category: "Product-Led Growth"
 tags:

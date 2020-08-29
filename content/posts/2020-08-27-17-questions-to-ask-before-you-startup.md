@@ -4,7 +4,7 @@ date: "2020-08-27T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/product-led-growth/17-questions-to-ask-before-you-startup"
-img: "https://amols.blog/media/xkcd-290.png"
+img: "https://amols.blog/media/questions.jpeg"
 isML: false
 category: "Product-Led Growth"
 tags:
