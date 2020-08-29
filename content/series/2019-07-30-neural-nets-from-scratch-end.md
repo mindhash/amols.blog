@@ -1,5 +1,7 @@
 ---
-frontSlug: "/series/neural-networks-from-scratch/"
+frontSlug: "/series/product-retention-from-scratch/"
+seriesSlugs: ''
+isSeries: true
 ---
 
 ## What Next?

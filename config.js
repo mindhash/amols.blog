@@ -1,19 +1,19 @@
 'use strict';
 
 module.exports = {
-  url: 'https://victorzhou.com',
-  title: 'victorzhou.com',
-  subtitle: 'SWE @ Facebook. CS \'19 @ Princeton. I blog about web development, machine learning, and more.',
-  copyright: '© Victor Zhou 2019',
+  url: 'https://amols.blog',
+  title: 'amols.blog',
+  subtitle: 'Founder. Product + Engineering Leader. I blog about Product, Programming and SaaS.',
+  copyright: '© Amol Umbark 2020',
   postsPerPage: 8,
-  googleAnalyticsId: 'UA-58664433-1',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Blog',
       path: '/'
     },
     {
-      label: 'About',
+      label: 'About me',
       path: '/about/'
     },
     {
@@ -22,14 +22,15 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Victor Zhou',
-    photo: '/photo2.png',
-    photoLarge: '/photo2-large.png',
-    bio: 'SWE @ Facebook. CS \'19 @ Princeton. I blog about <a href="/tag/web-development/">web development</a>, <a href="/tag/machine-learning/">machine learning</a>, and <a href="/tags/">more topics</a>.',
+    name: 'Amol Umbark.',
+    photo: '/photo.png',
+    photoLarge: '/photo.png',
+    showTwitter: false,
+    bio: 'Founder. Product + Engineering Leader. I blog about <a href="/tag/product-led-growth/">product-led growth</a>, <a href="/tag/programming/">programming</a>, and <a href="/tags/">more topics</a>.',
     contacts: {
-      email: 'vzhou842@gmail.com',
-      twitter: 'victorczhou',
-      github: 'vzhou842',
+      email: 'amolumbarkar@gmail.com',
+      twitter: 'amolumbark',
+      github: 'mindhash',
       rss: '/rss.xml',
     }
   }

@@ -177,7 +177,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#164BC5',
         display: 'standalone',
-        icon: 'static/favicon2.png'
+        icon: 'static/favicon.png'
       },
     },
     {

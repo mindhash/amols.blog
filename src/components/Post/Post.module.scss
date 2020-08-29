@@ -2,7 +2,11 @@
 @import '../../assets/scss/mixins';
 
 .post {
+  margin-bottom: 15em;
+  
+
   &__footer, &__comments, &__viewSource {
+    
     max-width: $layout-post-width;
     margin: 0 auto;
     padding: 0 15px;
@@ -20,6 +24,19 @@
   &__viewSource p {
     @include margin-top(0.5);
     @include margin-bottom(0.5);
+  }
+
+  &__subscribe {
+
+    background: transparent;
+    border: 1px solid #ccc;
+    color: #164BC5;
+    width: 100%;
+    margin-top: 2em;
+    &:hover {
+      background: #164BC5;
+      color: #f2f2f2;
+    }
   }
 }
 

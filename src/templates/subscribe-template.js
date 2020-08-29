@@ -28,10 +28,10 @@ const SubscribeTemplate = ({ data, pageContext }: Object) => {
           </p>
         ) : (
           <p>
-            Hey, I'm Victor. I write about <Link to="/tag/web-development/">web development</Link>,{' '}
-            <Link to="/tag/machine-learning/">machine learning</Link>, and{' '}
+            Hey, I'm Amol Umbark. I write field stories (suitable) for <Link to="/tag/product-led growth/">product managers</Link>,{' '}
+            <Link to="/tag/programming/">engineers</Link>,and{' '}
             <Link to="/tags/">more</Link> on this blog. You can subscribe to my newsletter to{' '}
-            <b>get new blog posts by email</b>.
+            <b>get new articles by email</b>.
           </p>
         )}
         <SubscribeForm signupSource={source} large showAllOptions noDescription />

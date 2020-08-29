@@ -65,15 +65,15 @@ const Post = ({ post, prevPost, nextPost, contentFooter, hideDescription }: Prop
         footer={contentFooter}
       />
 
-      <div className={styles['post__subscribeForm']}>
+      {/*<div className={styles['post__subscribeForm']}>
         <SubscribeForm signupSource={`Post:${slug}`} isML={isML} isWeb={isWeb} large />
-      </div>
+      </div>*/}
 
       <div className={styles['post__viewSource']}>
         <p>
           <i>
             This blog is{' '}
-            <a href="https://github.com/vzhou842/victorzhou.com" target="_blank">
+            <a href="https://github.com/mindhash/amols.blog" target="_blank">
               open-source on Github
             </a>
             .
@@ -83,17 +83,25 @@ const Post = ({ post, prevPost, nextPost, contentFooter, hideDescription }: Prop
 
       <div className={styles['post__footer']}>
         {tags && post.fields && <Tags tags={tags} tagSlugs={post.fields.tagSlugs} />}
-        {prevPost && nextPost && <ReadMore prevPost={prevPost} nextPost={nextPost} />}
+
         <div className={styles['post__authorContainer']}>
           <Author showBio showTwitter />
+
         </div>
-        <Share url={slug} title={title} />
-        <Discuss twitter={discussLinkTwitter} hn={discussLinkHN} reddit={discussLinkReddit} />
+
+        <button className={styles['post__subscribe']} 
+        onClick={()=> location.href = '/subscribe'}> 
+          Subscribe for similar content</button>
+
+        {/* <Share url={slug} title={title} /> */}
+        {prevPost && nextPost && <ReadMore prevPost={prevPost} nextPost={nextPost} />}
+        
+        {/*<Discuss twitter={discussLinkTwitter} hn={discussLinkHN} reddit={discussLinkReddit} />*/}
       </div>
 
-      <div className={styles['post__comments']}>
+      {/* <div className={styles['post__comments']}>
         <Comments />
-      </div>
+      </div>*/ }
     </div>
   );
 };

@@ -23,8 +23,8 @@ export const PureAuthor = ({ author, showBio, showTwitter }) => {
             </Link>
             {showTwitter && ' '}
             {showTwitter && (
-              <a style={{ fontWeight: 500 }} href="https://twitter.com/victorczhou" target="_blank">
-                @victorczhou
+              <a style={{ fontWeight: 500 }} href="https://twitter.com/amolumbark" target="_blank">
+                @amolumbark
               </a>
             )}
           </h4>
@@ -50,6 +50,7 @@ export const Author = props => (
               name
               bio
               photo
+              showTwitter
             }
           }
         }

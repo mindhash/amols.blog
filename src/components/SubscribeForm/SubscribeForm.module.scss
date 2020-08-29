@@ -33,8 +33,9 @@
   input[type='email'] {
     max-width: 90%;
     background-color: white;
-    border: 1px solid white;
-    border-radius: 5px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    
     padding: 8px 10px;
     /* need min 16px below to avoid page zooming in when input is focused on iOS */
     font-size: $typographic-base-font-size * 1;

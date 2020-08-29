@@ -19,9 +19,13 @@ const PostTemplate = ({ data, pageContext }: Props) => {
   const { author, title: siteTitle, subtitle: siteSubtitle, url: siteUrl } = data.site.siteMetadata;
   const { edges } = data.allMarkdownRemark;
   const { slug, prev, next } = pageContext;
-
   const [slugNode, prevNode, nextNode] = [slug, prev, next].map(
-    s => edges.filter(e => e.node.frontmatter.slug === s)[0].node,
+    s => {
+      if (edges.filter(e => e.node.frontmatter.slug === s).length === 0) {
+        return;
+      }
+      return edges.filter(e => e.node.frontmatter.slug === s)[0].node
+    }
   );
 
   const {

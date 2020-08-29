@@ -49,7 +49,7 @@ class SubscribePopup extends React.Component {
         <h4 className={styles['title']}>At least this isn't a full screen popup</h4>
         <p className={styles['description']}>
           That would be more annoying. Anyways, consider subscribing to my newsletter to <b>get new
-          posts by email!</b> I write about ML, Web Dev, and more.
+          posts by email!</b> I write about Product-led growth, Engineering, and more.
         </p>
         <SubscribeForm
           signupSource={`Popup:${postSlug}`}

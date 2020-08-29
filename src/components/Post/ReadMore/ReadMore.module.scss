@@ -23,8 +23,7 @@
     > div {
       flex: 1;
       background-color: $color-gray-bg;
-      text-align: center;
-      padding: 10px;
+      padding: 1.5rem;
       margin: 5px;
       border-radius: 4px;
 
@@ -39,6 +38,6 @@
 
 @include breakpoint-sm {
   .readmore-links {
-    flex-direction: row;
+    flex-direction: column;
   }
 }

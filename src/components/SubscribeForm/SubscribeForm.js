@@ -53,11 +53,11 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
       >
         {!noDescription && (
           <p className={styles['description']}>
-            I write about ML, Web Dev, and more. <b>Subscribe to get new posts by email!</b>
+            <b>Get the best field stories about creating products each week .</b>
           </p>
         )}
         <form
-          action="https://sendy.victorzhou.com/subscribe"
+          action=""
           method="post"
           acceptCharset="utf-8"
           target="_blank"
@@ -78,7 +78,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
             autoCorrect="off"
             name="email"
             size="25"
-            placeholder="example@domain.com"
+            placeholder="enter your email here"
             aria-label="Email Address"
             onKeyDown={onKeyDown}
             style={noDescription ? { marginTop: 0 } : undefined}
@@ -93,7 +93,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
                 checked={checked.none}
                 onChange={this.onCheckboxClick.bind(this, 'none')}
               />
-              Send me <i>all</i> posts
+              Send <i>all</i> posts
             </label>
           )}
           {showAllOptions && <br />}
@@ -106,7 +106,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
                 checked={checked.ml}
                 onChange={this.onCheckboxClick.bind(this, 'ml')}
               />
-              Send me <i>only</i> ML posts
+              Include <i>only</i> Engineering posts
             </label>
           )}
           {showAllOptions && <br />}
@@ -119,11 +119,11 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
                 checked={checked.web}
                 onChange={this.onCheckboxClick.bind(this, 'web')}
               />
-              Send me <i>only</i> Web Dev posts
+              Include <i>only</i> Product Management posts
             </label>
           )}
           {(isML || isWeb || showAllOptions) && <br />}
-          <input type="submit" value="SUBMIT" />
+          <input type="submit" value="Sure. I'm in!" />
         </form>
       </div>
     );
