@@ -44,6 +44,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
     const { checked } = this.state;
 
     const inputType = showAllOptions ? 'radio' : 'checkbox';
+    
 
     return (
       <div
@@ -57,13 +58,16 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
           </p>
         )}
         <form
-          action=""
+          action={`https://blog.us17.list-manage.com/subscribe/post?SIGNUP=${encodeURIComponent(signupSource)}`}
           method="post"
           acceptCharset="utf-8"
           target="_blank"
         >
-          <input type="hidden" name="Source" value={signupSource} />
-          <input type="hidden" name="list" value="CWC7638hEb6mfk1RqUbJ763snA" />
+          <input type="hidden" name="u" value="51d74d6962a7b5770112c0d80" />
+          <input type="hidden" name="id" value="abd44403f1" />
+          
+          {/*<input type="hidden" name="Source" value={signupSource} />
+          <input type="hidden" name="list" value="CWC7638hEb6mfk1RqUbJ763snA" />*/}
           <input
             type="text"
             name="hp"
@@ -76,7 +80,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
             type="email"
             autoCapitalize="off"
             autoCorrect="off"
-            name="email"
+            name="MERGE0"
             size="25"
             placeholder="enter your email here"
             aria-label="Email Address"
@@ -123,7 +127,7 @@ export default class SubscribeForm extends React.PureComponent<Props, State> {
             </label>
           )}
           {(isML || isWeb || showAllOptions) && <br />}
-          <input type="submit" value="Sure. I'm in!" />
+          <input type="submit" name="submit" value="Sure. I'm in!" />
         </form>
       </div>
     );

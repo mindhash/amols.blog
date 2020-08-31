@@ -39,19 +39,19 @@ Plenty of times the outcome was a result of choosing or not choosing an achievab
 
 Hence, for past couple of years, I started paying close attention to something I like to call the distance to value (DTV). 
 
-**Distance to Value (DTV)** = *the time taken [to deliver] the [promised value] to the [first active user]*
+**Distance to Value (DTV)** = *the time taken [to deliver] the [promised value] to the [first active user(s)]*
 
 The factors in square brackets are interdependent. The said optimisation requires tweaking these for the right balance. 
 
-- **First user**: 
-This offers a lever to tweak audience or segments based on who is likely to jump to trial. 
+- **First user(s)**: 
+This offers a lever to tweak audience or segments based on who is likely to jump to trial. I like to focus on the very first user.
 
-- **Promised value**: Must be tweaked to get to the first user faster. It may be a feature or a group of features.
+- **Promised value**: Must be tweaked to get to the first user(s) faster. It may be a feature or a group of features.
 
-- **Delivery**: This accounts for not just development time but the onboarding and training time required to discover the first Aha! moment, the discovery of promised value.
+- **Delivery**: This accounts for not just development time but the onboarding and training time required to reach the first Aha! moment, the discovery of promised value, for the first user(s).
 
 #### Yes, SpaceX is good at it
-SpaceX started with lofty vision of puting man on mars. But they have been focusing on more achievable promises for the right audiences. The first one was launching satellites for countries, private companies and now sending astranauts to ISA (International Space Station). 
+SpaceX has a lofty vision of putting man on mars. But they have been iterating with achievable promises first. The first one was launching satellites for countries, private companies and now sending astronauts to ISA (International Space Station). 
 
 By focusing on one promise and targeted audience they have been able to deliver and earn trust. A few years back, who would have trusted a private startup with such missions. 
 
