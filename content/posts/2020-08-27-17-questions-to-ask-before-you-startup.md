@@ -14,7 +14,7 @@ tags:
 description: "The key to building a successful product is to start asking the right questions as early as possible."
 canonical: ''
 prev: "/product-led-growth/ship-products-faster"
-next: "/product-led-growth/ship-products-faster"
+next: "/engineering/dont-gamify-team-work"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''

@@ -13,7 +13,7 @@ tags:
   - "Product Ideas"
 description: "My approach to avoiding scope creep and staying on track with the help of an estimation metric"
 canonical: ''
-prev: "/product-led-growth/17-questions-to-ask-before-you-startup"
+prev: "/engineering/dont-gamify-team-work"
 next: "/product-led-growth/17-questions-to-ask-before-you-startup"
 discussLinkTwitter: ''
 discussLinkHN: ''
