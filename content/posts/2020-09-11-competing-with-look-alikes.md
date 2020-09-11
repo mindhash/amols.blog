@@ -49,7 +49,7 @@ After research of past few months and looking back at my own journey, I have the
     
     This also includes making training or help content beyond your product scope. Help people get better at the job they are trying to perform.  For example - Ahref has a youtube channel to help you learn SEO and how to grow with it. 
 
-- To make the job easier, you must also consider what comes before and after the job. Make the transition easier.  For example, if you are a screen recording app, you are likely to send the recording to others on one of the many many communication tools. Integrate your tool with as many as apps you can to make that transition easier. 
+- To make the job easier, you must also consider what comes before and after the job. Make the transition easier.  For example, if you are a screen recording app, you are likely to send the recording to others on one of the many many communication tools or may be the inspiration for capturing the screen comes while you are fixing a bug. Integrate your tool with as many as apps you can to make that transition easier.  
 
 - Looks matter: Your branding and website play an important role in how people relate to you
 
