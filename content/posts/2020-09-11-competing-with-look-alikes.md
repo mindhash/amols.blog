@@ -11,7 +11,7 @@ tags:
   - "Product Management"
   - "Product-Led Growth" 
   - "Startup"
-description: "You don't need to copy if you know what to do. Instead of playing a catch up game, you can drive that attention  inward and get better results."
+description: "Instead of playing a catch up game, you can drive that attention  inward and get better results."
 canonical: ''
 prev: "/product-led-growth/ship-products-faster"
 next: "/product-led-growth/17-questions-to-ask-before-you-startup"
