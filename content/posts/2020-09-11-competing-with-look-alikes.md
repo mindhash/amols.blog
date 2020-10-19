@@ -13,8 +13,8 @@ tags:
   - "Startup"
 description: "Instead of playing a catch up game, you can drive that attention  inward and get better results."
 canonical: ''
-prev: "/product-led-growth/ship-products-faster"
-next: "/product-led-growth/17-questions-to-ask-before-you-startup"
+prev: "/engineering/dont-gamify-team-work"
+next: "/product-design/friction-in-perfect-systems"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''

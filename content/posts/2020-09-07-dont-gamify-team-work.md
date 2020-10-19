@@ -13,8 +13,8 @@ tags:
   - "Startup"
 description: "In this article, you will read about my failed attempt at gamification, psychology of competition and why copy cat semantics of employee recognition may not work for you."
 canonical: ''
-prev: "/product-led-growth/ship-products-faster"
-next: "/product-led-growth/17-questions-to-ask-before-you-startup"
+prev: "/product-led-growth/17-questions-to-ask-before-you-startup"
+next: "/product-led-growth/competing-with-look-alikes"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''

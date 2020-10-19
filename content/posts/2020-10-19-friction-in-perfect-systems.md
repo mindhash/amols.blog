@@ -3,13 +3,12 @@ title: Friction in Perfect systems
 date: "2020-10-19T12:00:00.000Z"
 template: "post"
 draft: false
-slug: "/friction-in-perfect-systems"
-img: ""
+slug: "/product-design/friction-in-perfect-systems"
+img: "https://amols.blog/media/highway.jpg"
 isML: false
-category: "product-led-growth"
+category: "Design"
 tags:
-  - "Product Management"
-  - "Story of Life" 
+  - "Product Design" 
 description: "Stories of how and when friction can be helpful"
 canonical: ''
 prev: "/product-led-growth/competing-with-look-alikes"
