@@ -23,7 +23,7 @@ isWeb: ''
 twitterEmbed: ''
 ---
 
-*Friction is absent in a perfect system* - that's what I used to think, atleast for the longest part of my life. 
+*Friction is the arch enemy - nemesis - of all systems. A perfect system is frictionless* - that's what I used to think, atleast for the longest part of my life. 
 
 We invent shortcuts right from early age, to study less, or to extend our playtime, which is eventually a way to get rid of friction.  
 
