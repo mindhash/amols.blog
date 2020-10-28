@@ -7,6 +7,7 @@ module.exports = {
   copyright: '© Amol Umbark 2020',
   postsPerPage: 8,
   googleAnalyticsId: '',
+
   menu: [
     {
       label: 'Blog',

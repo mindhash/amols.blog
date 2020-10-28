@@ -88,10 +88,10 @@ const Post = ({ post, prevPost, nextPost, contentFooter, hideDescription }: Prop
           <Author showBio showTwitter />
 
         </div>
-
-        <button className={styles['post__subscribe']} 
-        onClick={()=> location.href = '/subscribe'}> 
-          Subscribe for similar content</button>
+        <a className={styles['post__subscribe']} style={{display: 'block', textAlign:'center', fontWeight: 'bold', padding: '1em'}} 
+        href='https://twitter.com/aumbark' target="_blank"> 
+          Follow me on twitter for updates</a>
+        
 
         {/* <Share url={slug} title={title} /> */}
         {prevPost && nextPost && <ReadMore prevPost={prevPost} nextPost={nextPost} />}

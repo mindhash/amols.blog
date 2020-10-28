@@ -25,7 +25,9 @@ export const PureSidebar = ({ data, hideSubscribeForm, hideAd }: PureProps) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} />
         <Menu />
-        <MovableSidebarContent desktop hideSubscribeForm={hideSubscribeForm} hideAd={hideAd} />
+        <div style={{fontWeight: 'bold'}}>Follow <a href="https://www.twitter.com/aumbark" target="_blank">@aumbark</a> for updates </div>
+        <MovableSidebarContent desktop hideSubscribeForm={true} hideAd={true} />
+
       </div>
     </div>
   );

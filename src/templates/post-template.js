@@ -103,10 +103,8 @@ const PostTemplate = ({ data, pageContext }: Props) => {
           <Post post={slugNode} prevPost={prevNode} nextPost={nextNode} />
         )}
       </Layout>
-      {!isSeries && <SubscribePopup postSlug={slug} isML={isML} isWeb={isWeb} />}
-      <FixedScrollContainer>
-        <CarbonAd largeOnly />
-      </FixedScrollContainer>
+      {false && <SubscribePopup postSlug={slug} isML={isML} isWeb={isWeb} />}
+      
     </>
   );
 };

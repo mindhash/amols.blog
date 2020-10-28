@@ -13,13 +13,14 @@ const Author = ({ author }) => (
           {author.name}
         </Link>{' '}
         <div>
-        <a style={{ fontWeight: 500 }} href="https://twitter.com/amolumbark" target="_blank">
-          @amolUmbark
+        <a style={{ fontWeight: 500 }} href="https://twitter.com/aumbark" target="_blank">
+          @aumbark
         </a>
         </div>
       </h2>
     </div>
     <p className={styles['author__subtitle']} dangerouslySetInnerHTML={{ __html: author.bio }} />
+    
   </div>
 );
 
