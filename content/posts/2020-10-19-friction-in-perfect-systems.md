@@ -12,7 +12,7 @@ tags:
 description: "Stories of how and when friction can be helpful"
 canonical: ''
 prev: "/product-led-growth/competing-with-look-alikes"
-next: "/engineering/dont-gamify-team-work"
+next: "/product-led-growth/unsaid-rule-of-starting-business"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''
