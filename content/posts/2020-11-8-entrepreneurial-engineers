@@ -1,0 +1,58 @@
+---
+title: The rise of entrepreneurial engineer
+date: "2020-11-06T12:00:00.000Z"
+template: "post"
+draft: false
+slug: "/programming/entrepreneurial-engineers"
+img: ""
+isML: false
+category: "Programming"
+tags:
+  - "Programming" 
+description: "entrepreneurial Mindset vs Job Mindset"
+canonical: ''
+prev: "/product-led-growth/know-the-game-you-are-in"
+next: "/product-led-growth/ship-products-faster"
+discussLinkTwitter: ''
+discussLinkHN: ''
+discussLinkReddit: ''
+asyncScript: ''
+usesKatex: ''
+dateModified: ''
+isWeb: ''
+twitterEmbed: ''
+---
+
+I didn't know we could do that! - something I heard plenty of times in my career. Mostly from product owners, project managers and even top execs. 
+
+I have worked along side engineers for over 15 years, I see 3 kinds of mindsets amoung them - Job Mindset, Consulting Mindset / Problem Solvers,  Entrepreneurial Mindset / Product Thinkers. 
+
+I have been through each of these, so I know them pretty well. 
+
+Choosing a technology that may not be perfect for your use case but is quite famous in the market, is a class case of resume driven development. This is what I call a job mindset. The engineers who fantasize about using that latest technology just for the sake of their future job prospects. This isn't always bad. Sometimes you need a bit of renovation to get things to a better place.  Works perfectly when you are dealing with legacy softwares. 
+
+But exactly a mindset you wouldn't be happy to have in a startup. You end up loosing time, money and in the end you basically trade off one problem for the another. I have seen this first hand and the results can be dismal, even so when the person who made you choose leaves without training others. 
+
+Problem solvers are excellent at solving technical or even non-technical problems.  You give them a problem and they will have a solution ready in a couple of days or atleast a way to go about.
+
+The only problem with consulting mindeset of engineers is you have to give them a problem. They wouldn't discover the problems by themselves. Now you may think, this is the job of managers or product owners. But here me on this - Products are complicated beasts, one person really is not enough to tame them. There are problems that only PMs can discover and there are ones that only engineers can. 
+
+
+> That API that your PM has decided to use, has throttle limit and you need to change design to accomodate batch transfers instead of online push, for the sake of users. 
+
+Entreprenurial engineers are really good at design, not just technical but user-centric too.  They are interested in users / customers, ROI and growth. This is a growth mindset. 
+
+Google has long been known to embrace this approach. Let engineers be part of design process. 
+
+I have seen several orgs where engineers are the last ones to know about a feature, it's only when PMs and Designers have concluded that this feature needs to go in. More of this happens, and engineers start being uninterested in the product lifecycle. They just care about technical delivery and you loose another thinking hat - and what that could have been.
+
+
+
+
+
+
+
+
+
+
+
