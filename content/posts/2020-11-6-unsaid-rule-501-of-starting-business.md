@@ -2,7 +2,7 @@
 title: Know the game you are in
 date: "2020-11-06T12:00:00.000Z"
 template: "post"
-draft: true
+draft: false
 slug: "/product-led-growth/know-the-game-you-are-in"
 img: "https://amols.blog/media/highway.jpg"
 isML: false
@@ -12,7 +12,7 @@ tags:
 description: "Know what you are getting into"
 canonical: ''
 prev: "/product-design/friction-in-perfect-systems"
-next: "/programming/entrepreneurial-engineers"
+next: "/programming/how-to-help-or-ask-for-one"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''

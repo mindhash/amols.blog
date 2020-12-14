@@ -12,7 +12,7 @@ tags:
 description: "How to help or ask for help as an engineer in a team"
 canonical: ''
 prev: "/product-led-growth/know-the-game-you-are-in"
-next: "/product-led-growth/ship-products-faster"
+next: "/programming/fast-wire-formats"
 discussLinkTwitter: ''
 discussLinkHN: ''
 discussLinkReddit: ''
