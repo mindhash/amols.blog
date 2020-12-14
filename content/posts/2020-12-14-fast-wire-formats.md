@@ -4,7 +4,7 @@ date: "2020-12-14T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/programming/fast-wire-formats"
-img: "https://amols.blog/media/go-struct.jpg"
+img: "https://amols.blog/media/go-struct.png"
 isML: false
 category: "Programming"
 tags:
